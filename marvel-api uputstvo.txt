@@ -1,0 +1,5 @@
+Open your terminal and type npx create-react-app my app
+After instalation download files that are uploaded
+run in terminal npm start
+
+Enjoy!
